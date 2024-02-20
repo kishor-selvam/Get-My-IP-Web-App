@@ -1,16 +1,13 @@
-# Your App Title
+# My Ip Address Finder
 
-Write app description in detail!
+Simple IP(Internet protocol) address Finder web App
 
 #### Screenshots
 
 [Yet to be uploaded]
 
 ## 🎉 Check it yourself!
-
-| 🚧 Build Status  | [![Netlify Status](https://img.shields.io/github/actions/workflow/status/anburocky3/festival-greeting-app/deploy.yml?logo=github&label=Live)](https://app.netlify.com/sites/cyberdude-internship/deploys) |
-| ---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ Live Website: | https://anburocky3.github.io/vite-html-tailwind                                                                                                                                                           |
+| ✅ Live Website: | https://kishor-selvam.github.io/Get-My-IP-Web-App/                                                                                                                                                           |
 
 ---
 
@@ -28,15 +25,6 @@ cd my-app
 npm install # Install dependencies
 ```
 
-## Checklist
-
-When you use this template, try follow the checklist to update your info properly
-
-- [ ] Change the author name in `LICENSE`
-- [ ] Change the title and unnecessary info in `index.html`
-- [ ] According to your usage, modify READMEs
-
-And, enjoy :)
 
 ## Usage
 
@@ -47,7 +35,6 @@ npm run dev
 ```
 
 Just run and visit http://localhost:5173
-
 
 ### Build
 
@@ -85,6 +72,4 @@ npm run preview
 
 #### Authors:
 
-- [Anbuselvan Rocky](https://fb.me/anburocky3)
-
-[![Deploy to GH Pages](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml/badge.svg)](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml)
+- [Kishor](https://github.com/kishor-selvam)

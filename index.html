@@ -3,14 +3,21 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
+    <title>Get My API</title>
 
     <!-- TailwindCSS -->
     <link rel="stylesheet" href="./assets/css/index.css" />
   </head>
   <body>
-    <!-- Write your HTML here -->
-    <div id="app" class="text-3xl font-bold">Hello Vite HTML & Tailwind!</div>
+    <div class="bg-blue-500 h-screen text-white p-20">
+      <div
+        class="font-semibold p-10 text-blue-600 bg-white max-w-xl mx-auto rounded"
+      >
+        <h4 class="font-semibold text-xl">My IP Address is:</h4>
+        <span id="my-ip-address" class="text-6xl tracking-wider text-black"></span>
+      </div>
+    </div>
+
     <script type="module" src="./assets/js/main.js"></script>
   </body>
 </html>
